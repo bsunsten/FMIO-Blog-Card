@@ -31,7 +31,7 @@ body {
 
 .blog-card {
   background-color: white;
-  border-radius: 10px;
+  border-radius: 14px;
   border-color: black;
   border-width: 0.08rem;
   border-style: solid;
@@ -43,7 +43,7 @@ body {
 
 .post-img {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 14px;
 }
 
 .tag {
