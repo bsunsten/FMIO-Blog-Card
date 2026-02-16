@@ -11,6 +11,9 @@
   font-size: 11px;
   text-align: center;
   margin-top: auto;
+  padding: 7px;
+  background-color: hsl(47, 48%, 83%);
+  border-radius: 5px 5px 0px 0px;
 }
 .attribution a {
   color: hsl(254, 95%, 48%);
