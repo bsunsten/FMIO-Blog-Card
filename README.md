@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click here to see the live site](https://your-live-site-url.com)
+- Live Site URL: [Click here to see the live site](https://bsunsten.github.io/FMIO-Blog-Card/)
 
 ## My process
 
